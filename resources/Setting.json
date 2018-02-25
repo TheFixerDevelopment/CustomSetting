@@ -1,6 +1,6 @@
 {
   "type": "custom_form",
-  "title": "Your Setting :)",
+  "title": "VoidFactionsPE Info",
   "icon": {
     "type": "url",
     "data": "https://cdn.shopify.com/s/files/1/1061/1924/files/Unicorn_Emoji.png?9898922749706957214"
@@ -8,7 +8,7 @@
   "content": [
     {
       "type": "label",
-      "text": "FILL IN TEXT HERE! Example text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+      "text": "Welcome to VoidFactionsPE Server! On this server, you can: Create a faction, raid others, an invite to your clan, /f map, /f overclaim, awesome kits, Custom enchants, nice builds, and so much more! Here are the Player rules: 1. No asking for staff. 2, No griefing server builds. 3. Donâ€™t use hack / mods. 4. Donâ€™t abuse duplications / exploits. 5. No using XRay (Also counts as rule number 3) 6. Donâ€™t spam. 7. No advertising. 8. No swearing. Here are the Youtube rules and how to become one. YouTube rank info: 1. You must have 20+ views on the video youâ€™re making of this server. 2. You must have 100+ subscribers. 3. Donâ€™t post a negative review of the server. 4. You must add the ip and port in the description. IP: voidfactionspe.ml Port: 19132 Now, here are the YouTubePlus rank info: 1. You must have 300+ subscribers. 2. You must have 50+ views on the VoidFactionsPE video youâ€™re making of this server. 3. Donâ€™t post a negative review of the server. 4. You must add the ip and port in the description. IP: voidfactionspe.ml Port: 19132. When youâ€™ve done all of that, join our discord: http://tinyurl.com/zeaodc and let us know."
     }
   ]
 }
